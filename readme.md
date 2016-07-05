@@ -431,6 +431,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Colorful](https://github.com/Siddharth11/Colorful) - Resources to choose your next color scheme.
 - [Steam](https://github.com/scholtzm/awesome-steam) - Digital distribution platform.
 - [Bots](https://github.com/hackerkid/bots) - Building bots.
+- [Awesome Lists Search](http://awesome-lists.net) - Search through many awesome lists at once
 
 
 ## License
